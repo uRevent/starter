@@ -24,6 +24,7 @@
     "module-devtools",
     "module",
     "ui",
+    "ui3",
     "v2",
     "v2-bridge",
     "v2-stackblitz",
