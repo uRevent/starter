@@ -32,7 +32,6 @@ Name | Description | Local     | Online |
 [content](https://github.com/nuxt/starter/tree/content) | [Nuxt Content](https://content.nuxt.com) | `npx nuxi init content-app -t content` | [Stackblitz](https://stackblitz.com/github/nuxt/starter/tree/content) / [CodeSandbox](https://codesandbox.io/p/github/nuxt/starter/content) |
 [ui](https://github.com/nuxt/starter/tree/ui) | [Nuxt UI](https://ui.nuxt.com) | `npx nuxi init nuxt-ui-app -t ui` | [Stackblitz](https://stackblitz.com/github/nuxt/starter/tree/ui) / [CodeSandbox](https://codesandbox.io/p/github/nuxt/starter/ui) |
 [v2-bridge](https://github.com/nuxt/starter/tree/v2-bridge) | [Nuxt 2](https://github.com/nuxt/nuxt/tree/2.x-dev) + [Bridge](https://github.com/nuxt/bridge) | `npx nuxi init nuxt-bridge-app -t v2-bridge` | [Stackblitz](https://stackblitz.com/github/nuxt/starter/tree/v2-bridge) / [CodeSandbox](https://codesandbox.io/p/github/nuxt/starter/v2-bridge-codesandbox) |
-[v2](https://github.com/nuxt/starter/tree/v2) | [Nuxt 2](https://github.com/nuxt/nuxt/tree/2.x-dev) | `npx nuxi init nuxt2-app -t v2` | [Stackblitz](https://stackblitz.com/github/nuxt/starter/tree/v2-stackblitz) / [CodeSandbox](https://codesandbox.io/p/github/nuxt/starter/v2-codesandbox) |
 
 ## Contribution
 
