@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  // https://ui3.nuxt.dev/getting-started/theme#design-system
+  // https://ui.nuxt.com/getting-started/theme#design-system
   ui: {
     colors: {
       primary: 'emerald',
